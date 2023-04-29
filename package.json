@@ -1,0 +1,27 @@
+{
+  "name": "cursoapisebas",
+  "version": "1.0.0",
+  "description": "Curso de creación de api",
+  "main": "server.js",
+  "scripts": {
+    "test": "api-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rassebas1/cursoApiSebas.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "clase"
+  ],
+  "author": "Sebastian Espitia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rassebas1/cursoApiSebas/issues"
+  },
+  "homepage": "https://github.com/rassebas1/cursoApiSebas#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
